@@ -22,7 +22,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   SoundCloud: kaqw
     .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.       * Portfolio: ~/portfolio
       x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         * Okure ~/okure
         =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=           * Butsuri ~/butsuri
-          `vR#@@@@@@@@?              M@@@@@@@@#Pv`             * Terviz ~/terviz
+          `vR#@@@@@@@@?              M@@@@@@@@#Pv`
               "Lf8@@@@v              q@@@#Qa?:
                   -!v|`              _?v!`
 ```
