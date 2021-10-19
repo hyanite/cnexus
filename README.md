@@ -20,9 +20,9 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   SoundCloud: kaqw
   n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     Projects
    2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~      ------------------
     .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.       * Portfolio: ~/portfolio
-      x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         * Packed ~/packed
+      x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         * Interact ~/interact
         =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=           * Butsuri ~/butsuri
-          `vR#@@@@@@@@?              M@@@@@@@@#Pv`             * Mgaix ~/magix
+          `vR#@@@@@@@@?              M@@@@@@@@#Pv`             * Magix ~/magix
               "Lf8@@@@v              q@@@#Qa?:
                   -!v|`              _?v!`
 ```
