@@ -1,21 +1,21 @@
 ```console
 $ github-fetch
                    .~vVeZNgQBBBQQg9Ze1v~.
-              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 kaqw@github
+              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 xastronomical@github
            -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -------------------
         .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           Uptime: 14 years
-      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Language: Python, C++, JS, and 2 others...
+      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Language: Python, C++, JS, and 5 others...
     `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       OS: Windows, GNU/Linux (Arch)
    ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: Bash, PowerShell
   ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: VSCode
- :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: /home/kaqw
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: /home/xastro
 _g@@@@@@@@@@2-                                `M@@@@@@@@@@0
 a@@@@@@@@@@2                                    v@@@@@@@@@@;   Contact information
 #@@@@@@@@@@_                                     @@@@@@@@@@y   -------------------
 @@@@@@@@@@@.                                     @@@@@@@@@@%   Website: N/A
-#@@@@@@@@@@r                                    :@@@@@@@@@@s   Discord: Kq#7205
-W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   SoundCloud: kaqw
-~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    Github: kaqw
+#@@@@@@@@@@r                                    :@@@@@@@@@@s   Discord: Xastro#8098
+W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   SoundCloud: xastronomical
+~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    Github: xastronomical
  ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~
   n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     Projects
    2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~      ------------------
